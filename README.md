@@ -4,7 +4,11 @@ Hi 👋 My name is Dacian Cioc
 QC Engineer
 -----------
 
-With over 9 years of experience in the tech industry, I have a diverse skill set including quality assurance engineering, scrum master, and project management. I have a strong foundation in software testing methodologies and am skilled in developing and implementing QA processes and procedures. As a certified Scrum Master, I have a strong understanding of agile development methodologies and have successfully led cross-functional teams in delivering software projects on time and within budget. In addition to my technical skills, I have excellent communication and teamwork skills, and am able to effectively manage multiple projects and stakeholders. Throughout my career, I have been recognized for my attention to detail and ability to deliver high-quality work on time. I am always looking to learn and grow as a professional, and am excited to explore new opportunities in the tech industry.
+With over 9 years of experience in the tech industry, I have a diverse skill set including quality assurance engineering, scrum master, and project management. I have a strong foundation in software testing methodologies and am skilled in developing and implementing QA processes and procedures. 
+
+As a certified Scrum Master, I have a strong understanding of agile development methodologies and have successfully led cross-functional teams in delivering software projects on time and within budget. In addition to my technical skills, I have excellent communication and teamwork skills, and am able to effectively manage multiple projects and stakeholders. 
+
+Throughout my career, I have been recognized for my attention to detail and ability to deliver high-quality work on time. I am always looking to learn and grow as a professional, and am excited to explore new opportunities in the tech industry.
 
 *   🌍  I'm based in Craiova, Romania
 *   ✉️  You can contact me at [dacian.cioc@gmail.com](mailto:dacian.cioc@gmail.com)
